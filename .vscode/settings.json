@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
+        "Babayen",
+        "BSCS",
         "SSTF"
-    ]
+    ],
+    "files.associations": {
+        "filesystem": "cpp",
+        "chrono": "cpp"
+    }
 }
